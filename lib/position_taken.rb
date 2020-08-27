@@ -1,3 +1,3 @@
-def position_taken?(" " = empty)
+def position_taken
 
 end
